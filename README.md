@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeraysampedro a 19 year-old Spanish programmer!
+- 👋 Hi, I’m @yeraysampedro a 19 year-old, LGBT Spanish programmer!
 ##
 - 👀 I’m interested in programming videogames even though the apps in my repositories are basic CRUD ones :)
 ##
