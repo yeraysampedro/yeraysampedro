@@ -2,7 +2,7 @@
 ##
 - 👀 I’m interested in programming videogames even though the apps in my repositories are basic CRUD ones :)
 ##
-- 🌱 I’m currently learning JavaFX, Unreal Engine, Python (for Odoo) and C# (for Unity)!
+- 🌱 I’m currently learning Python, Scala and MongoDB!
 ##
 - 📫 How to reach me @yeraysampedro on Instagram and LinkedIn
 
