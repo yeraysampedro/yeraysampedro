@@ -2,7 +2,5 @@
 ##
 - 👀 I’m interested in programming videogames even though the apps in my repositories are basic CRUD ones :)
 ##
-- 🌱 I’m currently learning Python, Scala and MongoDB!
-##
-- 📫 How to reach me @yeraysampedro on Instagram and LinkedIn
+- 📫 How to reach me @yeraysampedro on  LinkedIn
 
